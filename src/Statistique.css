@@ -1,0 +1,17 @@
+.stat-card {
+  border: 1px solid #ddd;
+  padding: 15px;
+  border-radius: 8px;
+  text-align: center;
+  display: inline-block;
+  margin: 10px;
+  min-width: 120px;
+  background-color: #f9f9f9;
+}
+
+.stat-chiffre {
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: #0a6e31; /* Vert Sénégal */
+  display: block;
+}
